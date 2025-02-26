@@ -1,4 +1,6 @@
 # LiDAR Registration with Visual Foundation Models
+[**arXiv**](https://arxiv.org/abs/) | [**Website**](https://vfm-registration.cs.uni-freiburg.de/) | [**Video**](https://youtu.be/YicKCR-iLlk)
+
 
 This repository is the official implementation of the paper:
 
