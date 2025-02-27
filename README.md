@@ -1,5 +1,5 @@
 # LiDAR Registration with Visual Foundation Models
-[**arXiv**](https://arxiv.org/abs/) | [**Website**](https://vfm-registration.cs.uni-freiburg.de/) | [**Video**](https://youtu.be/YicKCR-iLlk)
+[**arXiv**](https://arxiv.org/abs/2502.19374) | [**Website**](https://vfm-registration.cs.uni-freiburg.de/) | [**Video**](https://youtu.be/YicKCR-iLlk)
 
 
 This repository is the official implementation of the paper:
@@ -16,10 +16,11 @@ This repository is the official implementation of the paper:
 
 If you find our work useful, please consider citing our paper:
 ```
-@article {
-    title = {LiDAR Registration with Visual Foundation Models},
-    author = {},
-    year = {2025},
+@article{voedisch2025lidar,
+  title={LiDAR Registration with Visual Foundation Models},
+  author={Niclas Vödisch, Giovanni Cioffi, Marco Cannici, Wolfram Burgard, Davide Scaramuzza},
+  journal={arXiv preprint arXiv:2502.19374},
+  year={2025}
 }
 ```
 
