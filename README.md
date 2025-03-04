@@ -8,7 +8,7 @@ This repository is the official implementation of the paper:
 >
 > [Niclas Vödisch](https://vniclas.github.io/), [Giovanni Cioffi](https://giovanni-cioffi.netlify.app/), [Marco Cannici](https://marcocannici.github.io/), [Wolfram Burgard](https://www.utn.de/person/wolfram-burgard/), and [Davide Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html). <br>
 >
-> *Preprint*, 2025
+> *arXiv preprint arXiv:2502.19374*, 2025
 
 <p align="center">
   <img src="./assets/overview.png" alt="Overview of our approach" width="800" />
