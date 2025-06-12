@@ -1,0 +1,5 @@
+sensor_msgs/PointCloud2 frame_a
+sensor_msgs/PointCloud2 frame_b
+geometry_msgs/Transform initial_guess
+---
+geometry_msgs/Transform transform
