@@ -19,7 +19,7 @@ If you find our work useful, please consider citing our paper:
 @article{voedisch2025lidar,
   title={LiDAR Registration with Visual Foundation Models},
   author={Niclas Vödisch, Giovanni Cioffi, Marco Cannici, Wolfram Burgard, Davide Scaramuzza},
-  journal={arXiv preprint arXiv:2502.19374},
+  journal={Robotics: Science and Systems (RSS)},
   year={2025}
 }
 ```
